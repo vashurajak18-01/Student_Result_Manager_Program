@@ -41,7 +41,7 @@ while True:
             print("Student Not found !!")
 
     # Exiting
-    elif choice == 4:
+    elif choice == "4":
         print("---- Exiting ----")
         break
     else:
