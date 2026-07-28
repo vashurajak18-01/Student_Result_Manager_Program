@@ -1,3 +1,4 @@
+
 student = {}
 
 while True:
@@ -6,7 +7,7 @@ while True:
     print(("2. View Student"))
     print(("3. Check Ressult"))
     print(("4. Exit"))
-
+    # Taking choice from User
     choice = input("Enter Your Choice ! : ")
 
     # Add Student
