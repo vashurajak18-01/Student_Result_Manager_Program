@@ -1,6 +1,6 @@
 # Making Student Dictionary
 student = {}
-
+# loop
 while True:
     print("\n ----STUDENT MANAGER APP ----")
     print(("1. Add Student"))
