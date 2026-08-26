@@ -38,7 +38,7 @@ Student_Result_Manager/
 - Store data in a file (CSV/JSON)
 - Improve input validation
 
-## 📜 License
+## 📜 _License_
 This project is open-source and available under the MIT License.
 
 ⭐ _If you like this project, don't forget to give it a star!_
