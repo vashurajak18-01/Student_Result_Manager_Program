@@ -41,4 +41,4 @@ Student_Result_Manager/
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-⭐ If you like this project, don't forget to give it a star!
+⭐ _If you like this project, don't forget to give it a star!_
