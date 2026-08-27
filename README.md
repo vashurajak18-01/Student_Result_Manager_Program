@@ -39,6 +39,6 @@ Student_Result_Manager/
 - Improve input validation
 
 ## 📜 _License_
-This project is open-source and available under the MIT License.
+_This project is open-source and available under the MIT License._
 
 ⭐ _If you like this project, don't forget to give it a star!_
