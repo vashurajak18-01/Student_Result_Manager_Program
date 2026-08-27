@@ -7,7 +7,7 @@ A simple command-line application built with **Python** to manage student record
 - View all student records
 - Check pass/fail status
 - Menu-driven interface
-- Uses Python dictionaries for data storage
+- Uses **Python dictionaries** for data storage
 
 ## 🛠️ Technologies Used
 - Python 3
