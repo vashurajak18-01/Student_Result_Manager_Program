@@ -19,7 +19,7 @@ Student_Result_Manager/
 │── README.md
 ```
 
-## ▶️ How to Run
+## ▶️ _How to Run_
 
 1. Clone the repository:
    ```bash
