@@ -10,7 +10,7 @@ A simple command-line application built with **Python** to manage student record
 - Uses **Python dictionaries** for data storage
 
 ## 🛠️ _Technologies Used_
-- Python 3
+- **Python 3**
 
 ## 📂 Project Structure
 ```
