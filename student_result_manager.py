@@ -1,5 +1,6 @@
 # Making Student Dictionary
 student = {}
+
 # loop
 while True:
     print("\n ----STUDENT MANAGER APP ----")
@@ -47,3 +48,5 @@ while True:
         break
     else:
         print("In-valid Input ")
+
+
