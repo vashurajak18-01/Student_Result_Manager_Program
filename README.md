@@ -9,7 +9,7 @@ A simple command-line application built with **Python** to manage student record
 - Menu-driven interface
 - Uses **Python dictionaries** for data storage
 
-## 🛠️ Technologies Used
+## 🛠️ _Technologies Used_
 - Python 3
 
 ## 📂 Project Structure
