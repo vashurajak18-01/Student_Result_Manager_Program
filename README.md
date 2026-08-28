@@ -12,7 +12,7 @@ A simple command-line application built with **Python** to manage student record
 ## 🛠️ _Technologies Used_
 - **Python 3**
 
-## 📂 Project Structure
+## 📂 _Project Structure_
 ```
 Student_Result_Manager/
 │── student_result_manager.py
