@@ -1,6 +1,6 @@
 # 🎓 _Student Result Manager_
 
-A simple command-line application built with **Python** to manage student records. The program allows users to add students, view all records, and check whether a student has passed or failed based on their marks.
+_A simple command-line application built with **Python** to manage student records. The program allows users to add students, view all records, and check whether a student has passed or failed based on their marks._
 
 ## ✨ _Features_
 - Add student names and marks
