@@ -25,7 +25,7 @@ Student_Result_Manager/
    ```bash
    git clone https://github.com/your-username/Student_Result_Manager.git
    ```
-2. Open the project folder.
+2. _Open the project folder._
 3. Run the program:
    ```bash
    python student_result_manager.py
