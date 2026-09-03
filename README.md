@@ -21,7 +21,7 @@ Student_Result_Manager/
 
 ## ▶️ _How to Run_
 
-1. Clone the repository:
+1. _Clone the repository_
    ```bash
    git clone https://github.com/your-username/Student_Result_Manager.git
    ```
