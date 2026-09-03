@@ -10,7 +10,7 @@ _A simple command-line application built with **Python** to manage student recor
 - Uses **Python dictionaries** for data storage
 
 ## 🛠️ Technologies Used
-- **Python 3**
+- ** _Python_ 3**
 
 ## 📂 _Project Structure_
 ```
