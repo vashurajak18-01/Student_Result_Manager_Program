@@ -12,7 +12,7 @@ _A simple command-line application built with **Python** to manage student recor
 ## 🛠️ _Technologies Used_
 - **_Python 3_**
 
-## 📂 _Project Structure_
+## 📂 **_Project Structure_**
 ```
 Student_Result_Manager/
 │── student_result_manager.py
