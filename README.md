@@ -6,7 +6,7 @@ _A simple command-line application built with **Python** to manage student recor
 - Add student names and marks
 - View all student records
 - Check pass/fail status
--  Menu-driven interface
+- Menu-driven interface
 - Uses **Python dictionaries** for data storage
 
 ## 🛠️ Technologies Used
