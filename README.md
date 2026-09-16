@@ -5,7 +5,7 @@ _A simple command-line application built with **Python** to manage student recor
 ## ✨ **_Features_**
 - *_Add student names and marks_*
 - *_View all student records_*
-- _Check pass/fail status_
+- *_Check pass/fail status_*
 - Menu-driven interface
 - Uses **Python dictionaries** for data storage
 
