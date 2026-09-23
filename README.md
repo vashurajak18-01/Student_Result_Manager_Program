@@ -32,7 +32,7 @@ Student_Result_Manager/
    ```
 
 ## 🚀 **_Future Improvements_**
-- Update student records
+- _Update student records_
 - Delete student records
 - Calculate grades and percentages
 - Store data in a file (CSV/JSON)
