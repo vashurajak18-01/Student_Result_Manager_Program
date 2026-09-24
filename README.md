@@ -2,7 +2,7 @@
 
 _A simple command-line application built with **Python** to manage student records. The program allows users to add students, view all records, and check whether a student has passed or failed based on their marks._
 
-## ✨ **_Features_**
+## ✨ **__Features__**
 - **_Add student names and marks_**
 - **_View all student records_**
 - **_Check pass/fail status_**
