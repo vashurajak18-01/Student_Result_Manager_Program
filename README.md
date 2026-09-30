@@ -31,7 +31,7 @@ Student_Result_Manager/
    python student_result_manager.py
    ```
 
-## 🚀 **_Future Improvements_**
+## 🚀 **__Future Improvements__**
 - _Update student records_
 - Delete student records
 - Calculate grades and percentages
