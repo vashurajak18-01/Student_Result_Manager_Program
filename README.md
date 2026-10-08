@@ -9,7 +9,7 @@
 - **_Menu-driven interface_**
 - **_Uses **Python dictionaries** for data storage_**
 
-## 🛠️ ***_Technologies Used_***
+## 🛠️ ***__Technologies Used__***
 - ***__Python 3__***
 
 ## 📂 **__Project Structure__**
