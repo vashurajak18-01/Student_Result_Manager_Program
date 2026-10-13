@@ -12,7 +12,7 @@
 ## 🛠️ ***__Technologies Used__***
 - ***__Python 3__***
 
-## 📂 **__Project Structure__**
+## 📂 **__Project Structure__** 
 ```
 Student_Result_Manager/
 │── student_result_manager.py
