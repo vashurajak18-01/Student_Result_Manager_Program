@@ -20,6 +20,7 @@ Student_Result_Manager/
 │── README.md
 ```
 
+
 ## ▶️ **__How to Run__**
 
 1. *_Clone the repository_*
